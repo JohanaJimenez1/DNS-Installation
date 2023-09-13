@@ -16,6 +16,5 @@ Installation d'un serveur DNS avec Windows Server
 
 ![cname](https://github.com/JohanaJimenez1/DNS-Installation/assets/137881601/2e230541-09e5-496c-a054-23c4456f8626)
 
-![Capture JPG2](https://github.com/JohanaJimenez1/DNS-Installation/assets/137881601/5b14919b-d406-45d6-9a65-08f1265d1bf6)
 
 ![Capture JPG2 1](https://github.com/JohanaJimenez1/DNS-Installation/assets/137881601/19955078-99a7-4bc4-adb5-ee8bc44000f6)
